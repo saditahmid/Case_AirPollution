@@ -1,0 +1,5 @@
+{
+    "rpc.idleTimeout": 9999,
+    "rpc.checkIdle": false,
+    "rpc.largeImageIdling": ""
+}
